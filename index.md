@@ -1,11 +1,21 @@
 # Resources for CAIE Computer Science (0478, 9608)
 
 ### Disclaimer about all resources here
-While all reasonable efforts have been made to ensure full compatibility with the syllabuses (and the author himself uses these for their own assignments and practice), none of these are official resources nor have they been endorsed by Cambridge International Assessment Education for any syllabus. Please use them at your own discretion. The author will not be responsible for any syllabus mismatches.
+While all reasonable efforts have been made to ensure full compatibility with the syllabuses (and the author himself uses these for their own practice and study), these are **not official** resources nor have they been endorsed by Cambridge International Assessment Education for any syllabus. Please use them at your own discretion. The author will not be responsible for any syllabus mismatches.
 
 ## Built resources
 
-The table below lists the resources built alongside the IGCSE [0478](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/) and A Level [9608](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) courses. The [Jupyter](https://jupyter.org/) notebooks are also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them.
+Brief descriptions of the resources I built alongside my IGCSE [0478](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/) and A Level [9608](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) courses:
+
+* Two [Jupyter](https://jupyter.org/) notebooks that guide a learner through all<span style="color:red">\*</span> aspects related to programming on the A Level syllabus 9608 (also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them).
+* A plug-in for the text editor Notepad++ that enables prettytyping (syntax highlighting) for pseudocode as per the CAIE specifications.
+* An exemplary solved per-release material for IGCSE, and two more will be released for the A Level after the live exam series is completed, and CAIE have released the results (to prevent malpractice).
+
+Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://labview.com/) (language: G) and [Arduino](https://arduino.cc/) (language: C++) programming, care is taken, where possible, to ensure that concepts are comminucated in a manner so that they develop trensferable skills.
+
+<br>
+
+The table below has hyperlinks to access the aforementioned resources.
 
 | Syllabus(es) | Resource | Notebooks | Repository |
 | -- | -- | -- | -- |
@@ -17,6 +27,7 @@ The table below lists the resources built alongside the IGCSE [0478](https://www
 <br>
 
 ## Recommended YouTube channels
+Some YouTube channels were also particularly useful to me and have been listed here. The estute student is also likely to find them enjoyable, so its recommended to check them out.
 
 | Channel | Description |
 | -- | -- |
@@ -31,4 +42,8 @@ The table below lists the resources built alongside the IGCSE [0478](https://www
 <br>
 
 ## About this page, and its author
-I love robotics, and Computer Science was a natural choice for me at IGCSE and A Level. I scored an A* at IGCSE, and predict the same at A Level. I built some tools and wrote notes to aide my learning journey, and documented them thoroughly so that they can be published (on this page!). Some YouTube channels were alse particularly useful to me and have been listed here. The hope is that some students/teachers can re-discover their passion for computers through these resources, and get assistance getting the scores they desire. All sorts of feedback and suggestions are welcome, and may be submitted by [opening an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [pulling a request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) on GitHub.
+I love robotics, and Computer Science was a natural choice for me at IGCSE and A Level. I scored an A* at IGCSE, and predict the same at A Level. I built some tools and wrote notes to aide my learning journey, and documented them thoroughly so that they can be published (on this page!). The hope is that some students/teachers can re-discover their passion for computers through these resources, and get assistance obtaining the grade they deserve. All sorts of feedback and suggestions are welcome, and may be submitted by [opening an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [pulling a request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) on the repository for this page via GitHub.
+
+<br> <br>
+
+<p style="color:red; font-size:10px">*only aspects directly related to programming, not the full syllabus for the paper</p>
