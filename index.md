@@ -27,7 +27,7 @@ The table below has hyperlinks to access the aforementioned resources.
 <br>
 
 ## Recommended YouTube channels
-Some YouTube channels were also particularly useful to me and have been listed here. The estute student is also likely to find them enjoyable, so its recommended to check them out.
+Some YouTube channels were also particularly useful to me and have been listed here. The keen student is also likely to find them enjoyable, so its recommended to check them out.
 
 | Channel | Description |
 | -- | -- |
