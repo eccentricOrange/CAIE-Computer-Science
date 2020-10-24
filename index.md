@@ -5,7 +5,7 @@ While all reasonable efforts have been made to ensure full compatibility with th
 
 ## Built resources
 
-The table below lists the resources built alongside the IGCSE [0478](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/) and A Level [9608](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) courses.
+The table below lists the resources built alongside the IGCSE [0478](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/) and A Level [9608](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) courses. The [Jupyter](https://jupyter.org/) notebooks are also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them.
 
 | Syllabus(es) | Resource | Notebooks | Repository |
 | -- | -- | -- | -- |
@@ -30,5 +30,5 @@ The table below lists the resources built alongside the IGCSE [0478](https://www
 
 <br>
 
-## About the author
-I love robotics, and Computer Science was a natural choice for me at IGCSE and A Level. I scored an A* at IGCSE, and predict the same at A Level. I built some tools and wrote notes to aide my learning journey, but documented them thoroughly so that they can be published (on this page!). Some YouTube channels were particularly useful to me, and the hope is that some students/teachers can re-discover their passion for computers through these resources, and get assistance getting the scores they desire. All sorts of feedback and suggestions are welcome, and may be submitted by [opening an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [pulling a request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) on GitHub.
+## About this page, and its author
+I love robotics, and Computer Science was a natural choice for me at IGCSE and A Level. I scored an A* at IGCSE, and predict the same at A Level. I built some tools and wrote notes to aide my learning journey, and documented them thoroughly so that they can be published (on this page!). Some YouTube channels were alse particularly useful to me and have been listed here. The hope is that some students/teachers can re-discover their passion for computers through these resources, and get assistance getting the scores they desire. All sorts of feedback and suggestions are welcome, and may be submitted by [opening an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [pulling a request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) on GitHub.
