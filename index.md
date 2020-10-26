@@ -1,7 +1,7 @@
 # Resources for CAIE Computer Science (0478, 9608)
 
 ### Disclaimer about all resources here
-While all reasonable efforts have been made to ensure full compatibility with the syllabuses (and the author himself uses these for their own practice and study), these are **not official** resources nor have they been endorsed by Cambridge International Assessment Education for any syllabus. Please use them at your own discretion. The author will not be responsible for any syllabus mismatches.
+While all reasonable efforts have been made to ensure full compatibility with the syllabuses (and the author himself uses these for their own practice and study), these are **not official** resources and have not been endorsed by Cambridge International Assessment Education for any syllabus. Please use them at your own discretion. The author will not be responsible for any syllabus mismatches.
 
 ## Built resources
 
@@ -9,9 +9,9 @@ Brief descriptions of the resources I built alongside my IGCSE [0478](https://ww
 
 * Two [Jupyter](https://jupyter.org/) notebooks that guide a learner through all<span style="color:red">\*</span> aspects related to programming on the A Level syllabus 9608 (also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them).
 * A plug-in for the text editor Notepad++ that enables prettytyping (syntax highlighting) for pseudocode as per the CAIE specifications.
-* An exemplary solved per-release material for IGCSE, and two more will be released for the A Level after the live exam series is completed, and CAIE have released the results (to prevent malpractice).
+* An exemplary solved pre-release material for IGCSE, and two more will be released for the A Level after the live exam series is completed, and CAIE have released the results (to prevent malpractice).
 
-Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://labview.com/) (language: G) and [Arduino](https://arduino.cc/) (language: C++) programming, care is taken, where possible, to ensure that concepts are comminucated in a manner so that they develop trensferable skills.
+Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://labview.com/) (language: G) and [Arduino](https://arduino.cc/) (language: C++) programming, care is taken, where possible, to ensure that concepts are communicated in a manner so that they develop transferable skills.
 
 <br>
 
@@ -27,7 +27,7 @@ The table below has hyperlinks to access the aforementioned resources.
 <br>
 
 ## Recommended YouTube channels
-Some YouTube channels were also particularly useful to me and have been listed here. The keen student is also likely to find them enjoyable, so its recommended to check them out.
+Some YouTube channels were also particularly useful to me and have been listed here. The keen student is also likely to find them enjoyable, so it is recommended to check them out.
 
 | Channel | Description |
 | -- | -- |
