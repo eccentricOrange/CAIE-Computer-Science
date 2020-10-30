@@ -31,7 +31,7 @@ Some YouTube channels were also particularly useful to me and have been listed h
 
 | Channel | Description |
 | -- | -- |
-| [Ben Eater](https://www.youtube.com/user/eaterbc) | Teaches low-level electronics and fundamentals, assuming no background |
+| [Ben Eater](https://www.youtube.com/user/eaterbc) | Teaches low-level electronics and fundamentals, assuming little background |
 | [Computer Science](https://www.youtube.com/channel/UCSX3MR0gnKDxyXAyljWzm0Q) | Fundamentals of computers in lucid explanations; seems to cover A Level and GCSE syllabuses |
 | [Computerphile](https://www.youtube.com/user/Computerphile) | Interesting facts about computers and programming explained by various experts |
 | [Kevin Darrah](https://www.youtube.com/user/kdarrah1234) | Builds and explains about projects using microcontrollers |
