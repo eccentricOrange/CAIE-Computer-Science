@@ -1,4 +1,4 @@
-# Resources for CAIE Computer Science (0478, 9608)
+# 9608, 0478: Programming and Problem-solving
 
 ### Disclaimer about all resources here
 While all reasonable efforts have been made to ensure full compatibility with the syllabuses (and the author himself uses these for their own practice and study), these are **not official** resources and have not been endorsed by Cambridge International Assessment Education for any syllabus. Please use them at your own discretion. The author will not be responsible for any syllabus mismatches.
