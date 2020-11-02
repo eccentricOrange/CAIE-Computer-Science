@@ -46,4 +46,4 @@ I love robotics, and Computer Science was a natural choice for me at IGCSE and A
 
 <br> <br>
 
-<p style="color:red; font-size:10px">*only aspects directly related to Python programming, not the full syllabus for the paper</p>
+<p style="color:red; font-size:11px">*only aspects directly related to Python programming, not the full syllabus for the paper</p>
