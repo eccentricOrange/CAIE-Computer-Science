@@ -15,7 +15,7 @@ Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://l
 
 <br>
 
-The table below has hyperlinks to access the aforementioned resources.
+The table below has hyperlinks to access the aforementioned resources. Chances are these will work for newer syllabuses (A Level [9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/); IGCSE [0984](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-9-1-computer-science-0984/)), and possibly those from other boards too, but **this has not been checked**, and topics must be matched independently by the end-user.
 
 | Syllabus(es) | Resource | Notebooks | Repository |
 | -- | -- | -- | -- |
