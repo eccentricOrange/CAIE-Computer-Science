@@ -26,7 +26,6 @@ The table below has hyperlinks to access the aforementioned resources. Chances a
 
 <br>
 
-[![Made withJupyter](https://img.shields.io/badge/Notebooks%20made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 <br>
 
@@ -51,3 +50,5 @@ I love robotics, and Computer Science was a natural choice for me at IGCSE and A
 <br> <br>
 
 <p style="color:red; font-size:11px">*only aspects directly related to Python programming, not the full syllabus for the paper</p>
+
+[![Made withJupyter](https://img.shields.io/badge/Notebooks%20made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
