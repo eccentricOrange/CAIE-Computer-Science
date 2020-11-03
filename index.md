@@ -24,9 +24,9 @@ The table below has hyperlinks to access the aforementioned resources. Chances a
 | 9608/2 | **Fundamental Problem-solving and Programming Skills** <br> Interactive Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) |
 | 9608/4 | **Further Problem-solving and Programming Skills** <br> Interactive Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) |
 
+[![Made withJupyter](https://img.shields.io/badge/Notebooks%20made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 <br>
-
-
 <br>
 
 ## Recommended YouTube channels
@@ -50,5 +50,3 @@ I love robotics, and Computer Science was a natural choice for me at IGCSE and A
 <br> <br>
 
 <p style="color:red; font-size:11px">*only aspects directly related to Python programming, not the full syllabus for the paper</p>
-
-[![Made withJupyter](https://img.shields.io/badge/Notebooks%20made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
