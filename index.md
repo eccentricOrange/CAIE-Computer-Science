@@ -9,7 +9,7 @@ Brief descriptions of the resources I built alongside my IGCSE [0478](https://ww
 
 * Two [Jupyter](https://jupyter.org/) notebooks that guide a learner through all<span style="color:red">\*</span> aspects related to programming on the A Level syllabus 9608 (also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them).
 * A plug-in for the text editor Notepad++ that enables prettytyping (syntax highlighting) for pseudocode as per the CAIE specifications.
-* An exemplary solved pre-release material for IGCSE, and two more will be released for the A Level after the live exam series is completed, and CAIE have released the results (to prevent malpractice).
+* An exemplary solved pre-release material for IGCSE, and two more will be released for the A Level, CAIE have released the results, and made the question papers public (to prevent malpractice).
 
 Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://labview.com/) (language: G) and [Arduino](https://arduino.cc/) (language: C++) programming, care is taken, where possible, to ensure that concepts are communicated in a manner so that they develop transferable skills.
 
@@ -23,8 +23,10 @@ The table below has hyperlinks to access the aforementioned resources. Chances a
 | 0478/2 | **0478/22/PRE/F/M/19** <br> Solved  Pre-release material | | [Github](https://github.com/eccentricOrange/0478-22-PRE-F-M-19) |
 | 9608/2 | **Fundamental Problem-solving and Programming Skills** <br> Interactive Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) |
 | 9608/4 | **Further Problem-solving and Programming Skills** <br> Interactive Notebook | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) |
+| 9608/2 | **9608/22/PRE/O/N/20** <br> Solved Pre-release material <td colspan="2"> Will be published after CAIE publicly releases the question paper, and results to prevent malpractice. </td> |
+| 9608/4 | **9608/42/PRE/O/N/20** <br> Solved Pre-release material <td colspan="2"> Will be published after CAIE publicly releases the question paper, and results to prevent malpractice. </td> |
 
-[![Made withJupyter](https://img.shields.io/badge/Notebooks%20made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Made with Jupyter](https://img.shields.io/badge/Notebooks%20made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 <br>
 <br>
