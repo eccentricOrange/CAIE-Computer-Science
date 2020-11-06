@@ -9,7 +9,7 @@ Brief descriptions of the resources I built alongside my IGCSE [0478](https://ww
 
 * Two [Jupyter](https://jupyter.org/) notebooks that guide a learner through all<span style="color:red">\*</span> aspects related to programming on the A Level syllabus 9608 (also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them).
 * A plug-in for the text editor Notepad++ that enables prettytyping (syntax highlighting) for pseudocode as per the CAIE specifications.
-* An exemplary solved pre-release material for IGCSE, and two more will be released for the A Level, CAIE have released the results, and made the question papers public (to prevent malpractice).
+* An exemplary solved pre-release material for IGCSE. Two more will be released for the A Level, after CAIE have released the results, and made the question papers public (to prevent malpractice).
 
 Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://labview.com/) (language: G) and [Arduino](https://arduino.cc/) (language: C++) programming, care is taken, where possible, to ensure that concepts are communicated in a manner so that they develop transferable skills.
 
