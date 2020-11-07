@@ -8,7 +8,7 @@ While all reasonable efforts have been made to ensure full compatibility with th
 Brief descriptions of the resources I built alongside my IGCSE [0478](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/) and A Level [9608](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) courses:
 
 * Two [Jupyter](https://jupyter.org/) notebooks that guide a learner through all<span style="color:red">\*</span> aspects related to programming on the A Level syllabus 9608 (also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them). Please know that these are not yet as comprehensive or approachable as I would like, but should be by about the middle of year 2021.
-* A plug-in for the text editor Notepad++ that enables prettytyping (syntax highlighting) for pseudocode as per the CAIE specifications.
+* A plug-in for the text editor [Notepad++](https://notepad-plus-plus.org/) that enables prettytyping (syntax highlighting) for pseudocode as per the CAIE specifications.
 * An exemplary solved pre-release material for IGCSE. Two more will be released for the A Level, after CAIE have released the results, and made the question papers public (to prevent malpractice).
 
 Leveraging experience from [Python](https://www.python.org/), [LabVIEW](http://labview.com/) (language: G) and [Arduino](https://arduino.cc/) (language: C++) programming, care is taken, where possible, to ensure that concepts are communicated in a manner so that they develop transferable skills.
