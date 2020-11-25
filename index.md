@@ -5,6 +5,8 @@ While all reasonable efforts have been made to ensure full compatibility with th
 
 ## Built resources
 
+Most of my resources that involve programming are written for Python. Some resources are made using [Jupyter](https://jupyter.org/), which allows me to make interactive notes for Python: you can read the explanation and then try out examples immediately.
+
 Brief descriptions of the resources I built alongside my IGCSE [0478](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/) and A Level [9608](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) courses:
 
 * Two [Jupyter](https://jupyter.org/) notebooks that guide a learner through all<span style="color:red">\*</span> aspects related to programming on the A Level syllabus 9608 (also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them). Please know that these are not yet as comprehensive or approachable as I would like, but should be by about the middle of year 2021.
