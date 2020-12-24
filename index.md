@@ -32,7 +32,7 @@ The table below has hyperlinks to access the aforementioned resources. Chances a
 <br>
 
 ## Recommended YouTube channels
-Some YouTube channels were also particularly useful to me and have been listed here. The keen student is also likely to find them enjoyable, so it is recommended to check them out.
+Some YouTube channels were also particularly useful to me and have been listed here. The keen student is also likely to find them enjoyable, so it is recommended to check them out. Many of them are structured as series, so it may be useful to follow through rather than watch individual videos (if you feel you have the adequate pre-requisites, feel free to try individual videos).
 
 | Channel | Description |
 | -- | -- |
