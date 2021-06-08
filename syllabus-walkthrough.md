@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # Programming syllabus walk-throughs
 I made two [Jupyter](https://jupyter.org/) notebooks that guide you through most of the Python programming topics. I try my best to
 * cover fundamental areas that textbooks don't discuss adequately

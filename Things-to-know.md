@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Tools of the programming trade
 
 Often, computer science courses teach you the theory of computing, programming, and all sorts of advanced topics. However, I've noticed a lack of resources that tell you how to actually tackle an IDE, how to keep track of your code, where to seek help et cetera.

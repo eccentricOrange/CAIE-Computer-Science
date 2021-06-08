@@ -1,3 +1,7 @@
+---
+nav_order: 6
+---
+
 # About
 
 ## About this page, and its author
