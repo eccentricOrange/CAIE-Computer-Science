@@ -16,8 +16,5 @@ Some YouTube channels were also particularly useful to me and have been listed h
 | [Tom Scott](https://www.youtube.com/user/enyay) | Not strictly a computer channel, but the playlist [The Basics](https://www.youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha) talks about useful facts about computers and programming |
 
 <br> <br> <br>
-<span class="fs-3">
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
-
-</span>

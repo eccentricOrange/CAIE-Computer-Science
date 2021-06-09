@@ -12,8 +12,4 @@ While all reasonable efforts have been made to ensure full compatibility with th
 
 <br> <br> <br>
 
-<span class="fs-3">
-
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
-
-</span>

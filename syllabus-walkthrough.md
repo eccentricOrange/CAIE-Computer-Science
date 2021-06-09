@@ -24,10 +24,7 @@ These notebooks were originally designed for the [CAIE 9608 Computer Science](ht
 | 9608/4, 9618/4 | **4:** Further Problem-solving and Programming Skills | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) |
 
 <br> <br> <br>
-<span class="fs-3">
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
 
 [Visit the notebooks' repo](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes){: .btn .btn-outline }
-
-</span>

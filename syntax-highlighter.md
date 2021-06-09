@@ -21,11 +21,10 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 3. Restart your system after installing the application
 
 ### Installing the Pseudocode Library
-1. Download the ZIP folder that has the installation files.
+1. Download the ZIP folder that has the installation files, and then extract them.
 
     [Download](https://downgit.github.io/#/home?url=https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin/tree/master/npp-psu-plugin&rootDirectory=false){: .btn .btn-purple }
     
-    Extract the files.
 2. Launch Notepad++
 3. Click on the **Define your language** option under the **Language** menu. This should bring up a language editor window.
 4. Click **Import...**
@@ -64,10 +63,7 @@ Pseudocode files are saved with the file extension `.psu`. Since you are not lik
 Notepad++ is a flexible software for any kind of programming. It supports various languages and has many tools and features you can discover only through experience. I encourage you to try and experiment with the software; if you go wrong, you can always reset to defaults. Try building your own language or theme—such exercises lead you to explore and learn a lot. Finally, good luck and enjoy the experience.
 
 <br> <br> <br>
-<span class="fs-3">
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
 
 [Visit the plug-in's repo](http://example.com/){: .btn .btn-outline }
-
-</span>

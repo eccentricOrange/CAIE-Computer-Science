@@ -51,8 +51,5 @@ Getting started sources:
 * Articles: [GitHub](https://docs.github.com/en/github/getting-started-with-github), [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 <br> <br> <br>
-<span class="fs-3">
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
-
-</span>
