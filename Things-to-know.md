@@ -36,8 +36,13 @@ I also like to use [Reddit](https://reddit.com), but you need to know the right 
 
 If you use a specific platform like [Raspberry Pi](https://www.raspberrypi.org/forums/) or [Arduino](https://forum.arduino.cc/), their official forums are also good.
 
+**Best practices for forums:**
+* [What have you tried?](https://mattgemmell.com/what-have-you-tried/)
+* [How to ask a software question \(Wikipedia\)](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/How_to_ask_a_software_question)
+* [Writing the perfect question](https://blogs.msmvps.com/jonskeet/2010/08/29/writing-the-perfect-question/)
+
 ### Tutorials
-If you need to learn how to do something, it's best to follow a tutorial. In general, try to look for a result from a reputable source like the official website, official documentation from somthing like [readthedocs.io](https://readthedocs.io/), or a well-known YouTube channel.
+If you need to learn how to do something, it's best to follow a tutorial. In general, try to look for a result from a reputable source like the official website, official documentation from something like [readthedocs.io](https://readthedocs.io/), or a well-known YouTube channel.
 
 ### References
 Since so much of programming involves specific syntax, references exist for most platforms. These are usually lists of commands or functions, along with parameters and a brief description. It's normal to keep referring very frequently.
@@ -53,7 +58,7 @@ Fortunately, **version control systems** exist.
 The most widely used version control system is called [Git](https://git-scm.com/). It is lightweight, fast, easy to get started with, and has a ton of support form some of the largest organizations, like Microsoft, Google, and the Linux Foundation. [GitHub](https://github.com/) is a popular website for uploading and sharing projects tracked using Git. Together, Git and GitHub also make it easy to share code, get feedback, use others' contributions, and so on.
 
 Getting started sources:
-* Vidoes/playlists: [TheNetNinja](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (this is what I used when I learnt Git)
+* Videos/playlists: [TheNetNinja](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (this is what I used when I learnt Git)
 * Articles: [GitHub](https://docs.github.com/en/github/getting-started-with-github), [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 <br>
@@ -73,7 +78,7 @@ After trying random software for a while, I've settled on the free [Visual Studi
 **StackOverflow Developer Survey 2019:** [click here](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools) to see a list of the most popular IDEs and editors in 2019. You can see the [most recent survey](https://insights.stackoverflow.com/survey/) too, but you'll have to dig out the section on IDEs.
 
 ### A word of caution
-While IDEs are certainly helpful software, they do have a little learning curve. If you're just getting started with programming, trying to learn to use an IDE, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would suggest that you first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside.
+While IDEs are certainly helpful software, they do have a little learning curve. If you're just getting started with programming, trying to learn to use an IDE, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside.
 
 <br> <br> <br>
 
