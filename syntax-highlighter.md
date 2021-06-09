@@ -41,7 +41,7 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 Notepad++ ships with settings aimed at programmers and you might not be comfortable with these. Follow the steps below to change them, if that is the case.
 1.	Launch Notepad++
 2.	Click the **Preferences** option under the **Settings** menu. This should open a new window
-3.	Under the **Editing** preferences set the L**ine wrap** option to `Aligned`
+3.	Under the **Editing** preferences set the **Line wrap** option to `Aligned`
 4.	Under the **Language** preferences set the **Tab Settings** so that the **Tab Size** is `4` and the **Replace by space** checkbox is checked 
 5.	Under the **Print** preferences, make sure the **Print line number** checkbox is checked
 6.	Click **Close** to exit.
