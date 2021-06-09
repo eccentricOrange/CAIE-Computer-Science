@@ -14,3 +14,10 @@ Some YouTube channels were also particularly useful to me and have been listed h
 | [Missing Semester](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw) | Series of lectures from [MIT CSAIL](https://www.csail.mit.edu) about using common tools, such as CLIs, version control, and IDEs |
 | [TED-Ed](https://www.youtube.com/user/TEDEducation) | General educational channel but the series [Think Like A Coder](https://www.youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or) covers basic programming concepts with an engaging storyline |
 | [Tom Scott](https://www.youtube.com/user/enyay) | Not strictly a computer channel, but the playlist [The Basics](https://www.youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha) talks about useful facts about computers and programming |
+
+<br> <br> <br>
+<span class="fs-3">
+
+[Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
+
+</span>

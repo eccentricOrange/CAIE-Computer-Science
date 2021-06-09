@@ -11,7 +11,7 @@ If you're learning programming or computer science, these are some things you sh
 ## A command line
 ```bash
 $ echo "Hello World"
-$ sudo reboot
+$ sudo apt-get moo
 ```
 Contrary to what you might expect, command lines interfaces (CLIs) are quite fun to use. They let you do stuff quickly, interact with settings deep in a computer, or install stuff without going through a clunky installer. If you decide to pursue programming, you will eventually find them indispensable. Which CLI you use heavily depends on your computer's operating system (it is possible to install different terminals on most computers, but this is somewhat "advanced").
 
@@ -49,3 +49,10 @@ The most widely used version control system is called [Git](https://git-scm.com/
 Getting started sources:
 * Vidoes/playlists: [TheNetNinja](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (this is what I used when I learnt Git)
 * Articles: [GitHub](https://docs.github.com/en/github/getting-started-with-github), [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
+<br> <br> <br>
+<span class="fs-3">
+
+[Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
+
+</span>
