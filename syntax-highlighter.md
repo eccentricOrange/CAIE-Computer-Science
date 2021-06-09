@@ -10,8 +10,10 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 ## Installation
 
 ### Downloading and installing Notepad++
-1. Download Notepad++ from it's .official website.
-    [visit website](https://notepad-plus-plus.org/download/){: .btn .btn-purple }
+1. Download Notepad++ from it's official website.
+
+    [Visit website](https://notepad-plus-plus.org/download/){: .btn .btn-purple }
+
 2. Install the software to your computer. Follow the instructions shown on the installer window. You might need administrator access to your computer system. Follow this [WikiHow tutorial](https://www.wikihow.com/Install-Notepad%2B%2B) for further assistance.
 
    Take note of the install location of the application. You may need this later.
@@ -20,6 +22,7 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 
 ### Installing the Pseudocode Library
 1. Download the ZIP folder that has the installation files.
+
     [Download](https://downgit.github.io/#/home?url=https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin/tree/master/npp-psu-plugin&rootDirectory=false){: .btn .btn-purple }
     
     Extract the files.
