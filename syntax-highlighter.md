@@ -60,8 +60,6 @@ Pseudocode files are saved with the file extension `.psu`. Since you are not lik
 5.	Click **Apply** followed by **OK**
 6.	Open `Pseudocode Syntax.psu` by double-clicking it in the File Explorer. You should see a file similar to `Colouring Scheme and Syntax.pdf`.
 
-Notepad++ is a flexible software for any kind of programming. It supports various languages and has many tools and features you can discover only through experience. I encourage you to try and experiment with the software; if you go wrong, you can always reset to defaults. Try building your own language or theme—such exercises lead you to explore and learn a lot. Finally, good luck and enjoy the experience.
-
 <br> <br> <br>
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
