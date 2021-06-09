@@ -66,4 +66,4 @@ Notepad++ is a flexible software for any kind of programming. It supports variou
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
 
-[Visit the plug-in's repo](http://example.com/){: .btn .btn-outline }
+[Visit the plug-in's repo](https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin){: .btn .btn-outline }
