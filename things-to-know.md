@@ -27,7 +27,9 @@ Getting started:
 <br>
 
 ## Asking for help
-You will frequently need to ask for help. While the variety online is infinite, there are three kinds of resources in general: forums, tutorials, and references. When you are stuck, try to just look up the problem on a search engine, like Google. Two things you should try and look for: error messages, and error codes. Often you'll find something from one of these three resources.
+You will frequently need to ask for help. When you are stuck, try to just look up the problem on a search engine, like Google. While the variety online is infinite, there are three kinds of resources in general: forums, tutorials, and references. Often you'll find something from one of these three resources.
+
+If you have an error message or an error code, do search that too.
 
 ### Forums
 There are many to pick from, but [StackOverflow](https://stackoverflow.com/), part of the [StackExchange](https://stackexchange.com/) forums, is one of the best known forums for programming. If you have a question, chances are that some one would have asked it here, and more often than not, it would be answered.
