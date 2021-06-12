@@ -23,6 +23,11 @@ These notebooks were originally designed for the [CAIE 9608 Computer Science](ht
 | 0478/2, 0984/2, 9608/2, 9618/2 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) |
 | 9608/4, 9618/4 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%204%20Further%20Problem-solving%20and%20Programming%20Skills.ipynb) |
 
+**Note:** Like all things in technology, Python is frequently updated. Sometimes, these changes result in syntax changes, such as mandatory parenthesis in `print()` from Python 2 to Python 3. It's possible that my work is out of date from the most recent Python version. I'll try to update it when I can, but you can see my last updated version below.
+
+
+Current version: Python 3.8.8
+
 <br> <br> <br>
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
