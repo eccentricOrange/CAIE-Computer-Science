@@ -9,7 +9,7 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 
 ## Installation
 
-### Downloading and installing Notepad++
+### Download and install Notepad++
 1. Download Notepad++ from it's official website.
 
     [Visit website](https://notepad-plus-plus.org/download/){: .btn .btn-purple }
@@ -20,8 +20,8 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 
 3. Restart your system after installing the application
 
-### Installing the Pseudocode Library
-1. Download the ZIP folder that has the installation files, and then extract them.
+### Install the Pseudocode Library
+1. Download the ZIP folder that has the installation files, and then extract them. You should find four files, which you'll use for the installing my plug-in in Notepad++.
 
     [Download](https://downgit.github.io/#/home?url=https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin/tree/master/npp-psu-plugin&rootDirectory=false){: .btn .btn-purple }
     
