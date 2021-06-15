@@ -79,8 +79,11 @@ After trying random software for a while, I've settled on the free [Visual Studi
 
 **StackOverflow Developer Survey 2019:** [click here](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools) to see a list of the most popular IDEs and editors in 2019. You can see the [most recent survey](https://insights.stackoverflow.com/survey/) too, but you'll have to dig out the section on IDEs.
 
+
+<br> <br>
+
 ### A word of caution
-While IDEs are certainly helpful software, they do have a little learning curve. If you're just getting started with programming, trying to learn to use an IDE, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside.
+While IDEs, CLIs, and Git are certainly helpful, they do have a little learning curve. If you're just getting started with programming, trying to learn to use all of them, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside. You might want to reserve CLIs and Git as for later, as you need finer control and have to handle more complex projects.
 
 <br> <br> <br>
 
