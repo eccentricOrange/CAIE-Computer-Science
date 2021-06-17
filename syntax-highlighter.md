@@ -12,7 +12,7 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 ## Installation
 
 ### Download and install Notepad++
-1. Download Notepad++ from it's official website.
+1. Download Notepad++ from its official website.
 
     [Visit website](https://notepad-plus-plus.org/download/){: .btn .btn-purple }
 
