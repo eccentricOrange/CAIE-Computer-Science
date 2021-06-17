@@ -7,6 +7,8 @@ While working with pseudocode, I was disappointed by the lack of an editor (that
 
 Notepad++ is a text editor and source code editor for use with Microsoft Windows. Notepad++ makes it possible to define "languages", or more precisely, highlighting schemes (UDLs). This pseudocode plug-in is a custom-defined-language that provides syntax highlighting. It has been built for the Computer Science syllabuses of Cambridge International Assessment Education, specifically A Level 9608 and IGCSE 0478.
 
+![Preview in Notepad++](https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin/blob/master/assets/preview.png?raw=true)
+
 ## Installation
 
 ### Download and install Notepad++
@@ -21,7 +23,7 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 3. Restart your system after installing the application
 
 ### Install the Pseudocode Library
-1. Download the ZIP folder that has the installation files, and then extract them. You should find four files, which you'll use for the installing my plug-in in Notepad++.
+1. Download the ZIP folder that has the installation files, and then extract them. You should find five files, which you'll use for the installing my plug-in in Notepad++.
 
     [Download](https://downgit.github.io/#/home?url=https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin/tree/master/npp-psu-plugin&rootDirectory=false){: .btn .btn-purple }
     
