@@ -79,6 +79,9 @@ After trying random software for a while, I've settled on the free [Visual Studi
 
 **StackOverflow Developer Survey 2019:** [click here](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools) to see a list of the most popular IDEs and editors in 2019. You can see the [most recent survey](https://insights.stackoverflow.com/survey/) too, but you'll have to dig out the section on IDEs.
 
+![Real Programmers, xkcd 378](https://imgs.xkcd.com/comics/real_programmers.png)
+[Real Programmers, comic 378 by xkcd](https://xkcd.com/378/)
+
 
 <br> <br>
 
