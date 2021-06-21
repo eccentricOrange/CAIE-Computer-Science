@@ -86,7 +86,7 @@ After trying random software for a while, I've settled on the free [Visual Studi
 <br> <br>
 
 ### A word of caution
-While IDEs, CLIs, and Git are certainly helpful, they do have a little learning curve. If you're just getting started with programming, trying to learn to use all of them, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside. You might want to reserve CLIs and Git as for later, as you need finer control and have to handle more complex projects.
+While IDEs, CLIs, and Git are certainly helpful, they do have a little learning curve. If you're just getting started with programming, trying to learn to use all of them, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside. You might want to reserve CLIs and Git for later, when you'll need finer control and will have to handle more complex projects.
 
 <br> <br> <br>
 
