@@ -50,3 +50,6 @@ We are able to do that when we experience a need for it. There are two approache
 
 Spend a day or two just messing with the syllabus specification (or textbook, or whatever way it has been presented to you) and Googling stuff you don't understand. You would learn the capabilities of your course. For example, you may not understand the difference between a while loop and a for loop, and may not understand their syntax, but you'd learn that repeatedly executing a given chunk of code is possible.
 
+<br> <br> <br>
+
+[Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
