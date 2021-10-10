@@ -2,22 +2,8 @@
 nav_order: 7
 ---
 
-<script>
-window.MathJax = {
-tex: {
-inlineMath: [['$', '$'], ['\\(', '\\)']]
-},
-svg: {
-fontCache: 'global'
-},
-jax: ["input/TeX", "output/CommonHTML"]
-};
-(function () {
-var script = document.createElement('script');
-script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js';
-script.async = true;
-document.head.appendChild(script);
-})();
+<script async>
+window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},svg: {fontCache: 'global'},jax: ["input/TeX", "output/CommonHTML"]};(function () {var script = document.createElement('script');script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js';script.async = true;document.head.appendChild(script);})();
 </script>
 
 # Tips and tricks
