@@ -13,7 +13,7 @@ I often find myself wanting to discuss little tips, tricks, and other ideas, but
 **Note:** There is no defined release schedule for these tips.
 
 ## 001-09-10-2021
-## Foo, Bar, and Baz
+### Foo, Bar, and Baz
 If you decide to look for help online, especially on a forum full of professional programmers (such as Stack Overflow), you might find these three words — among others — thrown around a lot.
 
 They are [metasyntactic variables](https://en.wikipedia.org/wiki/Metasyntactic_variable), arbitrary variables used as placeholders. There is no specific meaning behind them, much like how $x$, $y$, $t$ etc are used to define other expressions in mathematics.
