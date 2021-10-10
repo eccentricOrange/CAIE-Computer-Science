@@ -2,7 +2,7 @@
 nav_order: 7
 ---
 
-<script async="">
+<script>
     window.MathJax = {
         tex: {
             inlineMath: [['$', '$'], ['\\(', '\\)']]
