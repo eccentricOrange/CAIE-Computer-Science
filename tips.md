@@ -55,7 +55,7 @@ INCREMENT the value in memory
 STORE the value from memory into the location x
 ```
 
-This makes it obvious that `x = x + 1` is an assignment statement, and you immediately understand that it should not be seen as a mathematical expression.
+This makes it obvious that `x = x + 1` is an assignment statement, you immediately understand that it should not be seen as a mathematical expression, and know that the program would print `6`.
 
 ## 004-17-10-2021
 ### Trace tables
