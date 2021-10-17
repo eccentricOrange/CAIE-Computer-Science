@@ -49,7 +49,7 @@ Nevertheless, if you're ever confused with something like this, there is always 
 
 The above example would break down like this:
 
-```x86
+```
 LOAD the value from location x into memory
 INCREMENT the value in memory
 STORE the value from memory into the location x
