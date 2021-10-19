@@ -88,6 +88,52 @@ So what's the broad method here? Try to figure out what the algorithm is trying 
 
 ...it might be bit confusing. But if I just told you to make tea, you'd get what I'm trying to say.
 
+## 005-19-10-2021
+### Logic gate diagrams
+
+I'll take question **5**, part **(a)**, of the paper with paper code `0478/13/M/J/16` as an example for explaining how to translate a logic statement into a logic diagram. You may find it helpful to try and draw your own circuit along my explanation (or look at the solution from the marking scheme if you're really stuck).
+
+<br>
+
+Recognise that there are two ways to represent logic operations (at the level of IGCSE). The first is a statement, and the second is a diagram. You have something that's essentially the first, but written in English rather than Math. You gotta convert it into a diagram.
+
+### 1. Let's make it a bit more formal
+
+Look at each part of the given statement that is **bold** (I added in some parenthesis to make the sequence explicit, much like in math—you can do this on your paper as rough work). You can substitute these with a letter from the table above.
+
+> (**thickness is in tolerance** `AND` (**roller speed <> 10 metres/second** `OR` **temperature >= 50 °C**)) `OR` (**roller speed = 10 metres/second** `AND` **temperature >= 50 °C**)
+
+* If the **thickness is in tolerance**, that corresponds to *D=1*.
+* If the **roller speed <> 10 metres/second**, that corresponds to *S=0*.
+
+...and so on.
+
+We end up with: (*D=1* `AND` (*S=0* `OR` *T=0*)) `OR` (*S=1* `AND` *T=0*)
+
+Now we make a choice. If something is a 1, we just write its letter (so we just write *D* instead of *D=1*). If it's not a 1 (if it is a 0), we use `NOT` 1 (so we write `NOT` *S*, instead of *S=0*)
+
+Now we end up with: (*D* `AND` ((`NOT` *S*) `OR` (`NOT` *T*))) `OR` (*S* `AND` (`NOT` *T*))
+
+### 2. Figure out which gates you need
+Just count:
+* 2 `AND` gates
+* 2 `OR` gates
+* 2 `NOT` gates (the statement above has three, but two of them produce the same output `NOT` *T*, so we can "recycle" this).
+
+### 3. Figure out which values you need.
+Looking above, apart from the gates themselves, we have the following:
+* *D*
+* *T*
+* `NOT` *S*
+* `NOT` *T*
+
+So we can use *D* as it is provided. We must create a `NOT` *T* and a `NOT` *S*. So start by drawing these out in the space provided. Use the two `NOT` gates from the last step.
+
+### 4. Actually arrange and draw
+
+Now it just comes down to arranging everything and actually drawing it. I cannot really explain this, although I guess you now have enough information to reverse-engineer the mark-scheme. Practice plays a big role here, so if you want, use a textbook (or the internet) to get a hang of this with simpler circuits involving only 2-3 gates at a time. You can also watch people doing this on YouTube, and I think examples are the best way forward for this topic.
+
+
 <br> <br> <br>
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
