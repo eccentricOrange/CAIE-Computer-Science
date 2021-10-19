@@ -60,7 +60,7 @@ This makes it obvious that `x = x + 1` is an assignment statement, you immediate
 ## 004-17-10-2021
 ### Trace tables
 
-I'll take paper 0478/22/M/J/20 as an example, and we can look at **question 4**.
+I'll take paper `0478/22/M/J/20` as an example, and we can look at question **4**.
 
 The first thing you want to do is to understand what the algorithm is even saying. Just looking at the flowchart, we can see some notion of a loop (since an starting arrow from a decision box leads back to one step above it). Next, we can see that there appear to be some actions that may be taken if we went ahead with the loop (instead of ending).
 
@@ -70,7 +70,7 @@ Now that you know this, it's easy to figure out what's going on. If you gain mor
 Now if you're given two numbers (one for each of `PointsWon` and `PointsLost`), you can figure out what the output of the program will be. That's essentially one iteration of the loop
 And that's all you need for a trace table—one row is one iteration.
 
-So take the first two numbers from the data given to you in part **4(a)**, write them in the `PointsWon` and `PointsLost` columns of the first row, calculate their difference in the third column, and in the fourth column, write what happens to the player (they move up, down, or keep trying).
+So take the first two numbers from the data given to you in part **4 (a)**, write them in the `PointsWon` and `PointsLost` columns of the first row, calculate their difference in the third column, and in the fourth column, write what happens to the player (they move up, down, or keep trying).
 
 Then move on to the next pair of numbers and the next row
 The only catch is that once you see `PointsWon = -1`, you do not calculate a difference or output anything, because the algorithm ends. So leave those two cells blank.
@@ -91,7 +91,7 @@ So what's the broad method here? Try to figure out what the algorithm is trying 
 ## 005-19-10-2021
 ### Logic gate diagrams
 
-I'll take question **5**, part **(a)**, of the paper with paper code `0478/13/M/J/16` as an example for explaining how to translate a logic statement into a logic diagram. You may find it helpful to try and draw your own circuit along my explanation (or look at the solution from the marking scheme if you're really stuck).
+I'll take question **5 (a)**, of the paper with paper code `0478/13/M/J/16`, as an example for explaining how to translate a logic statement into a logic diagram. You may find it helpful to try and draw your own circuit along my explanation (or look at the solution from the marking scheme if you're really stuck).
 
 <br>
 
