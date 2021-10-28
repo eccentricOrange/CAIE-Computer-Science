@@ -133,6 +133,94 @@ So we can use *D* as it is provided. We must create a `NOT` *T* and a `NOT` *S*.
 
 Now it just comes down to arranging everything and actually drawing it. I cannot really explain this, although I guess you now have enough information to reverse-engineer the mark-scheme. Practice plays a big role here, so if you want, use a textbook (or the internet) to get a hang of this with simpler circuits involving only 2-3 gates at a time. You can also watch people doing this on YouTube, and I think examples are the best way forward for this topic.
 
+## 006-28-10-2021
+### Procedures: parameters by reference or by value?
+
+Look at this question.
+
+> The code below uses a procedure.
+> 
+> ```
+> DECLARE name: STRING
+> name ← "Sam"
+> CALL addMessage(name)
+> OUTPUT name
+> 
+> PROCEDURE addMessage(BYVAL inText: STRING)
+>     inText ← "Hello " + inText
+> ENDPROCEDURE
+> ```
+> 
+> Explain why this program outputs `Sam` rather than `Hello Same`.
+
+This is actually a surprisingly subtle concept. So it will take us some time to dissect this. Let's just see two basic ways this procedure can be defined.
+
+## 1: The argument is passed by value, as in the original code
+
+```
+DECLARE name: STRING
+name ← "Sam"
+CALL addMessage(name)
+OUTPUT name
+
+PROCEDURE addMessage(BYVAL inText: STRING)
+    inText ← "Hello " + inText
+ENDPROCEDURE
+```
+
+
+OUTPUT:
+```    
+Sam
+```
+
+Let's break the code down to see what's going on:
+
+1. Define a variable called `name`, and store the value `"Sam"` to it.
+2. Go into the procedure `addMessage()`.
+3. Create a variable called `inText`, and copy the value of `name` to it. (now whatever you do to `inText` won't affect `name`)
+4. Concatenate the literal string `"Hello "` and the value stored in `inText`. Store this new value to `inText`.
+5. Exit the procedure.
+6. Read the value from `name` and print it out.
+
+We never changed the value of `name`. There is no reason for it to hold anything but the literal `"Sam"` it started with. So that's what it prints.
+
+## 2: The argument is passed by reference, as it should have been
+
+```
+DECLARE name: STRING
+name ← "Sam"
+CALL addMessage(name)
+OUTPUT name
+
+PROCEDURE addMessage(BYREF inText: STRING)
+    inText ← "Hello " + inText
+ENDPROCEDURE
+```
+
+OUTPUT:
+
+    Hello Sam
+
+Let's break the code down to see what's going on:
+
+1. Define a variable called `name`, and store the value `"Sam"` to it.
+2. Go into the procedure `addMessage()`.
+3. Concatenate the literal string `"Hello "` and the value stored in `name`. Store this new value to `name`.
+4. Exit the procedure.
+5. Read the value from `name` and print it out.
+
+This time, there was no `inText` in the picture. The procedure directly used the variable `name`, and stored the updated value `"Hello Sam"` to it. So when the print statement accesses `name`, it gets the updated value.
+
+## 3: Okay what's this stuff?
+In the first case, the computer would pass a **value** to the procedure. Think of it like copying and pasting—whatever you do to the copy won't affect the original.
+
+In the second case, the computer would pass a **reference** to the procedure. Think of it like a link to a website—if someone updates the website, and then you access the link, you get the updated website. In other words, changes to whatever the reference leads to affect the original, and hence any other links.
+
+<br>
+
+Obviously it is a little bit more complicated if you actually break it down into assembly code, but I think this is good enough for you wrap your head around for now. If you're in the mood for getting confused but probably learning more, look up these terms: heap, call stack, pointers.
+
 
 <br> <br> <br>
 
