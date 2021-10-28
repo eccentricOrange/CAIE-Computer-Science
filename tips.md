@@ -155,7 +155,7 @@ Look at this question.
 
 This is actually a surprisingly subtle concept. So it will take us some time to dissect this. Let's just see two basic ways this procedure can be defined.
 
-## 1: The argument is passed by value, as in the original code
+### 1: The argument is passed by value, as in the original code
 
 ```
 DECLARE name: STRING
@@ -185,7 +185,7 @@ Let's break the code down to see what's going on:
 
 We never changed the value of `name`. There is no reason for it to hold anything but the literal `"Sam"` it started with. So that's what it prints.
 
-## 2: The argument is passed by reference, as it should have been
+### 2: The argument is passed by reference, as it should have been
 
 ```
 DECLARE name: STRING
@@ -212,7 +212,7 @@ Let's break the code down to see what's going on:
 
 This time, there was no `inText` in the picture. The procedure directly used the variable `name`, and stored the updated value `"Hello Sam"` to it. So when the print statement accesses `name`, it gets the updated value.
 
-## 3: Okay what's this stuff?
+### 3: Okay what's this stuff?
 In the first case, the computer would pass a **value** to the procedure. Think of it like copying and pasting—whatever you do to the copy won't affect the original.
 
 In the second case, the computer would pass a **reference** to the procedure. Think of it like a link to a website—if someone updates the website, and then you access the link, you get the updated website. In other words, changes to whatever the reference leads to affect the original, and hence any other links.
