@@ -151,7 +151,7 @@ Look at this question.
 > ENDPROCEDURE
 > ```
 > 
-> Explain why this program outputs `Sam` rather than `Hello Same`.
+> Explain why this program outputs `Sam` rather than `Hello Sam`.
 
 This is actually a surprisingly subtle concept. So it will take us some time to dissect this. Let's just see two basic ways this procedure can be defined.
 
