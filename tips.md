@@ -67,13 +67,12 @@ The first thing you want to do is to understand what the algorithm is even sayin
 With that, now take help of the information provided above the question. Apparently, this algorithm decides whether a player moves up, down, or stays where they were.
 
 Now that you know this, it's easy to figure out what's going on. If you gain more than you lose, you move up a level; if you lose more, you move down; if your net gain/loss is 0 you stay where you were; and once you enter -1 for `PointsWon`, it ends
-Now if you're given two numbers (one for each of `PointsWon` and `PointsLost`), you can figure out what the output of the program will be. That's essentially one iteration of the loop
-And that's all you need for a trace table—one row is one iteration.
+
+Now if you're given two numbers (one for each of `PointsWon` and `PointsLost`), you can figure out what the output of the program will be. That's essentially one iteration of the loop. And that's all you need for a trace table—one row is one iteration.
 
 So take the first two numbers from the data given to you in part **4 (a)**, write them in the `PointsWon` and `PointsLost` columns of the first row, calculate their difference in the third column, and in the fourth column, write what happens to the player (they move up, down, or keep trying).
 
-Then move on to the next pair of numbers and the next row
-The only catch is that once you see `PointsWon = -1`, you do not calculate a difference or output anything, because the algorithm ends. So leave those two cells blank.
+Then move on to the next pair of numbers and the next row. The only catch is that once you see `PointsWon = -1`, you do not calculate a difference or output anything, because the algorithm ends. So leave those two cells blank.
 
 So what's the broad method here? Try to figure out what the algorithm is trying to do. As another example, if I just gave you steps that ask you to:.
 
