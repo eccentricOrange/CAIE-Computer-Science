@@ -45,7 +45,7 @@ Depending on your experience with programming, the line `x = x + 1` may be eithe
 
 ![Spongebob based meme](https://i.imgur.com/XydhvcK.png)
 
-Nevertheless, if you're ever confused with something like this, there is always one thing which can sort it out: **convert it to something like assemble language**.
+Nevertheless, if you're ever confused with something like this, there is always one thing which can sort it out: **convert it to something like assembly language**.
 
 The above example would break down like this:
 
