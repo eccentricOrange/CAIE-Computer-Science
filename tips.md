@@ -47,7 +47,7 @@ Depending on your experience with programming, the line `x = x + 1` may be eithe
 
 Nevertheless, if you're ever confused with something like this, there is always one thing which can sort it out: **convert it to something like assembly language**.
 
-The above example would break down like this:
+From the example above, the line `x = x + 1` would break down like this:
 
 ```
 LOAD the value from location x into memory
