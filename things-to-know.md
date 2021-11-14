@@ -72,12 +72,12 @@ Learn more:
 * [CodeAcademy article](https://www.codecademy.com/articles/what-is-an-ide)
 * [RedHat Article](https://www.redhat.com/en/topics/middleware/what-is-ide)
 
-### Choosing an IDE
+### Choosing an IDE or text editor
 Many programmers [feel quite strongly](https://en.wikipedia.org/wiki/Editor_war) about their preference of IDEs and text editors. Following this culture, I would suggest you to research on your own—see what you like, read about the best IDEs for the languages you're using, and generally figure out what floats your boat.
 
 After trying random software for a while, I've settled on the free [Visual Studio Code](https://code.visualstudio.com/) for the past couple of years. It's fast and stable, customizable yet easy to use, and allows editing in multiple languages. (not sponsored)
 
-**StackOverflow Developer Survey 2019:** [click here](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools) to see a list of the most popular IDEs and editors in 2019. You can see the [most recent survey](https://insights.stackoverflow.com/survey/) too, but you'll have to dig out the section on IDEs.
+**StackOverflow Developer Survey 2019:** [click here](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools) to see a list of the most popular IDEs and editors in 2019. You can see the [most recent survey](https://insights.stackoverflow.com/survey/) too, but you'll have to dig out the section on environments.
 
 ![Real Programmers, xkcd 378](https://imgs.xkcd.com/comics/real_programmers.png)
 [Real Programmers, comic 378 by xkcd](https://xkcd.com/378/)
@@ -86,7 +86,7 @@ After trying random software for a while, I've settled on the free [Visual Studi
 <br> <br>
 
 ### A word of caution
-While IDEs, CLIs, and Git are certainly helpful, they do have a little learning curve. If you're just getting started with programming, trying to learn to use all of them, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside. You might want to reserve CLIs and Git for later, when you'll need finer control and will have to handle more complex projects.
+While IDEs and text editors, CLIs, and Git are certainly helpful, they do have a little learning curve. If you're just getting started with programming, trying to learn to use all of them, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside. You might want to reserve CLIs and Git for later, when you'll need finer control and will have to handle more complex projects.
 
 <br> <br> <br>
 
