@@ -41,7 +41,13 @@ x = x + 1
 print(x)
 ```
 
-Depending on your experience with programming, the line `x = x + 1` may be either daunting or completely obvious. How can something be equal to one greater than itself?
+Depending on your experience with programming, the line `x = x + 1` may be either daunting or completely obvious. How can something be equal to one added to itself? Solving mathematically, we get something meaningless:
+
+$$\begin{align}
+x &= x + 1 \newline
+x - x &= x + 1 - x \newline
+0 &= 1
+\end{align}$$
 
 ![Spongebob based meme](https://i.imgur.com/XydhvcK.png)
 
