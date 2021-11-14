@@ -45,7 +45,7 @@ Depending on your experience with programming, the line `x = x + 1` may be eithe
 
 ![Spongebob based meme](https://i.imgur.com/XydhvcK.png)
 
-Nevertheless, if you're ever confused with something like this, there is always one thing which can sort it out: **convert it to something like assembly language**.
+Nevertheless, if you're ever confused with something like this, there is always one thing which can sort it out: **convert it to something like assembly language**. Obviously, actual assembly-level programming can get rather complex, but simple sentences that elaborate a line of high-level code can help clarify its purpose/meaning.
 
 From the example above, the line `x = x + 1` would break down like this:
 

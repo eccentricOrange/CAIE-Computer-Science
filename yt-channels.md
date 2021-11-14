@@ -10,6 +10,7 @@ Some YouTube channels were also particularly useful to me and have been listed h
 | [Ben Eater](https://www.youtube.com/user/eaterbc) | Teaches low-level electronics and fundamentals, assuming little background |
 | [Computer Science](https://www.youtube.com/channel/UCSX3MR0gnKDxyXAyljWzm0Q) | Fundamentals of computers in lucid explanations; seems to cover A Level and GCSE syllabuses |
 | [Computerphile](https://www.youtube.com/user/Computerphile) | Interesting facts about computers and programming explained by various experts |
+| [Fireship](https://www.youtube.com/c/Fireship) | Somewhat intense videos, largely about various tools used in web-development. Not very relevant to A Levels, but might be interesting for some students. |
 | [Kevin Darrah](https://www.youtube.com/user/kdarrah1234) | Builds and explains about projects using microcontrollers |
 | [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy) | Explains unintuitive Python and C/C++ concepts in unconventional but effective ways. Great for general tips/best practices that go well beyond the syllabus. |
 | [Missing Semester](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw) | Series of lectures from [MIT CSAIL](https://www.csail.mit.edu) about using common tools, such as CLIs, version control, and IDEs |
