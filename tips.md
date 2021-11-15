@@ -230,7 +230,7 @@ Obviously it is a little bit more complicated if you actually break it down into
 ## 007-15-11-2021
 ### Common mistakes in Python
 
-James Murphy over at the YouTube channel [mCoding]() just did an excellent video about common mistakes people make when learning Python. I highly recommend you watch it.
+James Murphy over at the YouTube channel [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/) just did an excellent video about common mistakes people make when learning Python. I highly recommend you watch it.
 
 **WARNING:** While many of the things he points out are genuine problems, and in real projects you should try to follow best practices, for an exam please follow your textbooks. If you board has an endorsed, or otherwise recommended book, please follow the syntax and practices recommended by those books.
 
