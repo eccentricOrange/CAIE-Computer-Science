@@ -227,6 +227,17 @@ In the second case, the computer would pass a **reference** to the procedure. Th
 Obviously it is a little bit more complicated if you actually break it down into assembly code, but I think this is good enough for you wrap your head around for now. If you're in the mood for getting confused but probably learning more, look up these terms: heap, call stack, pointers.
 
 
+## 007-15-11-2021
+### Common mistakes in Python
+
+James Murphy over at the YouTube channel [mCoding]() just did an excellent video about common mistakes people make when learning Python. I highly recommend you watch it.
+
+**WARNING:** While many of the things he points out are genuine problems, and in real projects you should try to follow best practices, for an exam please follow your textbooks. If you board has an endorsed, or otherwise recommended book, please follow the syntax and practices recommended by those books.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUeud6DvOWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 <br> <br> <br>
 
 [Visit this website's repo](https://github.com/eccentricOrange/CAIE-Computer-Science){: .btn .btn-outline }
