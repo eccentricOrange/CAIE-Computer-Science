@@ -13,7 +13,7 @@ While all reasonable efforts have been made to ensure full compatibility with th
 ### Sponsoring: finances shouldn't be a factor in learning
 I often link to or recommend external sources (these may take the form of tools, vidoes, and articles, among others). I do this when I believe that source is relevant and can potentially help the learners. Nothing is ever sponsored in any way, and the original creators have not requested to be listed (although I seek permission when needed). There are no affiliate links on this website (although I cannot speak for any source I link to). Should this ever change, it will be clearly marked as such.
 
-If you do ever find something on this website that violates this, please open an issue or pull request to let me know about my mistakes.
+If you do ever find something on this website that violates this, please open an issue or a pull request to let me know about my mistakes.
 
 <br> <br> <br>
 
