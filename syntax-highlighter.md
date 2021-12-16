@@ -18,7 +18,7 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 
 2. Install the software to your computer. Follow the instructions shown on the installer window. You might need administrator access to your computer system. Follow this [WikiHow tutorial](https://www.wikihow.com/Install-Notepad%2B%2B) for further assistance.
 
-   Take note of the install location of the application. You may need this later.
+   Take note of the install location of the application. You may need this later. It should normally be `C:\Program Files\Notepad++\`.
 
 3. Restart your system after installing the application
 
