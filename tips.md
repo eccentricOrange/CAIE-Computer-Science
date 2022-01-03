@@ -87,8 +87,8 @@ So what's the broad method here? Try to figure out what the algorithm is trying 
 3. Add leaves
 4. Wait for 4 minutes
 5. Pass the mixture through a metal mesh into a tumbler
-6. Add sugar
-7. Add milk
+6. Optionally add sugar
+7. Optionally add milk
 8. Stir
 
 ...it might be bit confusing. But if I just told you to make tea, you'd get what I'm trying to say.
