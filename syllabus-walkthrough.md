@@ -22,11 +22,11 @@ Having said that, please do read and follow your syllabus specifications—there
 
 ### December 2021 UPDATE
 
+Hey, I've completed my A Levels since writing these resources. Now I know a lot more about this stuff, especially about the quirks of Python in comparision to other languages like C++, and I think I'm a little bit better at writing exposition. So I'm working on a new version of these notebooks. What you'll find below is the old version, but rest assured that everything has been checked for accuracy.
+
 {: .label .label-yellow }
 
 Coming soon!
-
-Hey, I've completed my A Levels since writing these resources. Now I know a lot more about this stuff, especially about the quirks of Python in comparision to other languages like C++, and I think I'm a little bit better at writing exposition. So I'm working on a new version of these notebooks. What you'll find below is the old version, but rest assured that everything has been checked for accuracy.
 
 Once I have a reasonably complete version, I'll update this page with a link to an early preview.
 
