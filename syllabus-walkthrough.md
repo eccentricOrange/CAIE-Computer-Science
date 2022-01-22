@@ -20,6 +20,11 @@ These notebooks were originally designed for the [CAIE 9608 Computer Science](ht
 
 Having said that, please do read and follow your syllabus specifications—there are some topics I choose not to cover because textbooks already do a good job there. I suspect these notebooks cover other syllabuses or exam boards too, but again—match against the syllabus specifications.
 
+> ### December 2021 UPDATE
+> Hey, I've completed my A Levels since writing these resources. Now I know a lot more about this stuff, especially about the quirks of Python in comparision to other languages like C++, and I think I'm a little bit better at writing exposition. So I'm working on a new version of these notebooks. What you'll find below is the old version, but rest assured that everything has been checked for accuracy.
+> 
+> Once I have a reasonably complete version, I'll update this page with a link to an early preview.
+
 | Syllabuses | Notebooks | Source Code |
 | -- | -- | -- |
 | 0478/2, 0984/2, 9608/2, 9618/2 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eccentricOrange/9608-Programming-Interactive-Notes/master?filepath=Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) | [GitHub](https://github.com/eccentricOrange/9608-Programming-Interactive-Notes/blob/master/Section%202%20Fundamental%20Problem-solving%20and%20Programming%20Skills.ipynb) |
