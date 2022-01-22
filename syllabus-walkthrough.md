@@ -20,11 +20,12 @@ These notebooks were originally designed for the [CAIE 9608 Computer Science](ht
 
 Having said that, please do read and follow your syllabus specifications—there are some topics I choose not to cover because textbooks already do a good job there. I suspect these notebooks cover other syllabuses or exam boards too, but again—match against the syllabus specifications.
 
-Coming soon!
+### December 2021 UPDATE
 
 {: .label .label-yellow }
 
-### December 2021 UPDATE
+Coming soon!
+
 Hey, I've completed my A Levels since writing these resources. Now I know a lot more about this stuff, especially about the quirks of Python in comparision to other languages like C++, and I think I'm a little bit better at writing exposition. So I'm working on a new version of these notebooks. What you'll find below is the old version, but rest assured that everything has been checked for accuracy.
 
 Once I have a reasonably complete version, I'll update this page with a link to an early preview.
