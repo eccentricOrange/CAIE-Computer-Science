@@ -237,6 +237,13 @@ James Murphy over at the YouTube channel [mCoding](https://www.youtube.com/c/mCo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUeud6DvOWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## 008-19-03-2022
+### YouTube series about networking
+
+If you're beginning to learn about networking and internet, I would highly recommend [Internet 101](https://youtube.com/playlist?list=PLSQl0a2vh4HD8wtmKZh0nKOsOvP1KYaNO) by Khan Academy. It covers a lot of the basics and should give you a good intuitive understanding for grasping your textbooks.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSQl0a2vh4HD8wtmKZh0nKOsOvP1KYaNO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br> <br> <br>
 
