@@ -254,13 +254,13 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > BTW, I'm generalising this answer so that it's about OOP irrespective of languages. But I'll show you a snippet of Python code at the end.
 > 
 > #### \#1 Think of a specific chair
-> * **There are going to be some things about the chair that you can think about.** It will have a height of 1 metre, a mass of 2 kg, a black > colour, maybe a memorable dent in the hind leg etc.
+> * **There are going to be some things about the chair that you can think about.** It will have a height of 1 metre, a mass of 2 kg, a black colour, maybe a memorable dent in the hind leg etc.
 > * **What does it do?** Nothing really.
 > * **What can happen to it?** It can be moved around, it can be cleaned, it can be broken (yikes!) etc.
 > 
 > #### \#2 Think of a specific bus
 > I'm imagining my school bus.
-> * It is yellow, it had seats for 60 people, I'm assuming there's 20 litres of fuel in it right now. It had my school's crest painted on the > right side.
+> * It is yellow, it had seats for 60 people, I'm assuming there's 20 litres of fuel in it right now. It had my school's crest painted on the right side.
 > * **What does it do?** It can move or brake. It can accelerate or decelerate.
 > * **What can happen to it?** It can be boarded or deboarded, it can be driven, it can be cleaned etc.
 > 
@@ -271,12 +271,12 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > * **What can happen to her?** Can be transported somewhere, can be requested something, can fall asleep etc.
 > 
 > #### \#4 Now think of all possible chairs
-> You cannot state the colour of all chairs. It doesn't make sense. You don't know the dents of all chairs. But you do know that all of them will > have some colour.
+> You cannot state the colour of all chairs. It doesn't make sense. You don't know the dents of all chairs. But you do know that all of them will have some colour.
 > 
 > You can clean most of them and you can sit on most of them. But you don't know if you move all of them around—some may be fixed to the floor.
 > 
 > #### \#5 Think of all possible buses
-> Again, you cannot know the colour of all of the buses, but you can be certain that each bus will have a colour. You cannot know the level of > fuel of all the buses, but all of them will have some level (even if it's 0).
+> Again, you cannot know the colour of all of the buses, but you can be certain that each bus will have a colour. You cannot know the level of fuel of all the buses, but all of them will have some level (even if it's 0).
 > 
 > Most of them can move or brake, but some might be broken. Most of them can be cleaned.
 > 
@@ -288,15 +288,15 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > #### Takeaways
 > Do you see what we're doing here?
 > 
-> We're assigning some **properties** (such as the level of fuel in a bus) to each _thing_. When we talk about a specific thing, the property has > a **value** (such as 20 litres of fuel in the bus). Some things may not share these properties; e.g., if a bus is still under construction, its > fuel tank may not have been installed yet so its level of fuel is undefined.
+> We're assigning some **properties** (such as the level of fuel in a bus) to each _thing_. When we talk about a specific thing, the property has a **value** (such as 20 litres of fuel in the bus). Some things may not share these properties; e.g., if a bus is still under construction, its fuel tank may not have been installed yet so its level of fuel is undefined.
 > 
-> We're also talking about what they can do or what can be done to them. These are **methods** (basically functions or procedures, depending on > what they do). Most humans will have the method that they can breathe. Again, many humans will have the running method, but some will not.
+> We're also talking about what they can do or what can be done to them. These are **methods** (basically functions or procedures, depending on what they do). Most humans will have the method that they can breathe. Again, many humans will have the running method, but some will not.
 > 
-> When we're talking about things in general (a generalised chair, for example), we're talking about the **class** of chairs. The chair I'm > currently sitting in is an **instance** of that class. Your chair is a different instance of the chair class. If the class chair has a method > that they can be cleaned, that both our chairs will **inherit** that method.
+> When we're talking about things in general (a generalised chair, for example), we're talking about the **class** of chairs. The chair I'm currently sitting in is an **instance** of that class. Your chair is a different instance of the chair class. If the class chair has a method that they can be cleaned, that both our chairs will **inherit** that method.
 > 
-> But that's repetitive. When discussing the chairs, I had to state that it can be cleaned even though I already mentioned that when I discussed > buses. So lets make a **parent class** of non-living things. We'll say that the class of buses and the class of chairs are both **children** of > the class of non-living things. Now if I say that non-living things can be cleaned, all buses and chairs will inherit that.
+> But that's repetitive. When discussing the chairs, I had to state that it can be cleaned even though I already mentioned that when I discussed buses. So lets make a **parent class** of non-living things. We'll say that the class of buses and the class of chairs are both **children** of the class of non-living things. Now if I say that non-living things can be cleaned, all buses and chairs will inherit that.
 > 
-> If there is a specific historical instance of chair sitting in a sterile museum, we don't want people touching it. So for that instance, we can > specify that it cannot be cleaned.
+> If there is a specific historical instance of chair sitting in a sterile museum, we don't want people touching it. So for that instance, we can specify that it cannot be cleaned.
 > 
 > #### What's this got to do with programming?
 > See for yourself! (Python 3)
