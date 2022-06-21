@@ -245,7 +245,7 @@ If you're beginning to learn about networking and internet, I would highly recom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSQl0a2vh4HD8wtmKZh0nKOsOvP1KYaNO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 009-10-16-2022
+## 009-10-06-2022
 ### Understanding Object-oriented Programming
 I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/CodingHelp/comments/ri7fte/oop_python/howj7xn/?context=3).
 
