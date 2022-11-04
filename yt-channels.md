@@ -11,7 +11,7 @@ Some YouTube channels were also particularly useful to me and have been listed h
 | [Brian Will](https://www.youtube.com/user/briantwill) | In-depth discussion of fairly advanced concepts. Mostly irrelevant to syllabus, but fairly interesting and useful for applications. |
 | [Computer Science](https://www.youtube.com/channel/UCSX3MR0gnKDxyXAyljWzm0Q) | Fundamentals of computers in lucid explanations; seems to cover A Level and GCSE syllabuses |
 | [Computerphile](https://www.youtube.com/user/Computerphile) | Interesting facts about computers and programming explained by various experts |
-| [CS 50](https://www.youtube.com/c/cs50) | Great and rigorous introduction to CS by Harvard University. Please see [Tip #010-05-11-2022](/CAIE-Computer-Science/tips.html#001-09-10-2021) |
+| [CS 50](https://www.youtube.com/c/cs50) | Great and rigorous introduction to CS by Harvard University. Please see [Tip #010-05-11-2022](/CAIE-Computer-Science/tips.html#010-05-11-2022) |
 | [Fireship](https://www.youtube.com/c/Fireship) | Somewhat intense videos, largely about various tools used in web-development. Not very relevant to A Levels, but might be interesting for some students. |
 | [Kevin Darrah](https://www.youtube.com/user/kdarrah1234) | Builds and explains about projects using microcontrollers |
 | [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy) | Explains unintuitive Python and C/C++ concepts in unconventional but effective ways. Great for general tips/best practices that go well beyond the syllabus. |
