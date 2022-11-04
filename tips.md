@@ -352,6 +352,16 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > 
 > Don't stress on stuff like the word `self` for now, it's a rather nuanced concept.
 
+## 010-05-11-2022
+### Check out Harvard University's CS50!
+
+For the uninitiated, [CS50 Introduction to Computer Science](http://cs50.harvard.edu/) is probably Harvard University's most popular class. It provides a good foundation for learning about computer science and programming, with a lecturer that makes the topics fairly approachable.
+
+The link above takes you to their main edX page where you can browse all of their classes and learn more about its certifications. IGCSE and AS & A Level students may find it easier to approach the following links, which will take you directly to specific CS50 courses:
+
+* [Main CS course](https://cs50.harvard.edu/x) (covers introductory computer science but with significant rigour; mostly in the C language)
+* [Python-specific course](https://cs50.harvard.edu/python) (covers introductory computer science; completely in the Python language)
+
 
 <br> <br> <br>
 
