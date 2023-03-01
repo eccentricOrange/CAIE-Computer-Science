@@ -100,7 +100,7 @@ I'll take question **5 (a)**, of the paper with paper code `0478/13/M/J/16`, as 
 
 <br>
 
-Recognise that there are two ways to represent logic operations (at the level of IGCSE). The first is a statement, and the second is a diagram. You have something that's essentially the first, but written in English rather than Math. You gotta convert it into a diagram.
+Recognize that there are two ways to represent logic operations (at the level of IGCSE). The first is a statement, and the second is a diagram. You have something that's essentially the first, but written in English rather than Math. You gotta convert it into a diagram.
 
 ### 1. Let's make it a bit more formal
 
@@ -251,7 +251,7 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 
 > I'm going to give you a number of analogies here. Don't dwell too much on any given example, we'll link it to coding later.
 > 
-> BTW, I'm generalising this answer so that it's about OOP irrespective of languages. But I'll show you a snippet of Python code at the end.
+> BTW, I'm generalizing this answer so that it's about OOP irrespective of languages. But I'll show you a snippet of Python code at the end.
 > 
 > #### \#1 Think of a specific chair
 > * **There are going to be some things about the chair that you can think about.** It will have a height of 1 metre, a mass of 2 kg, a black colour, maybe a memorable dent in the hind leg etc.
@@ -283,7 +283,7 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > #### \#6 Think of all possible humans
 > I don't know every human's height and mass, but every human has a measurable height and mass. I don't know how lazy most humans are, however.
 > 
-> Almost every human can breathe and eat. Almost every human can fall asleep. Not all of them can run (e.g. paralysed people), but a lot can.
+> Almost every human can breathe and eat. Almost every human can fall asleep. Not all of them can run (e.g. paralyzed people), but a lot can.
 > 
 > #### Takeaways
 > Do you see what we're doing here?
@@ -292,7 +292,7 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > 
 > We're also talking about what they can do or what can be done to them. These are **methods** (basically functions or procedures, depending on what they do). Most humans will have the method that they can breathe. Again, many humans will have the running method, but some will not.
 > 
-> When we're talking about things in general (a generalised chair, for example), we're talking about the **class** of chairs. The chair I'm currently sitting in is an **instance** of that class. Your chair is a different instance of the chair class. If the class chair has a method that they can be cleaned, that both our chairs will **inherit** that method.
+> When we're talking about things in general (a generalized chair, for example), we're talking about the **class** of chairs. The chair I'm currently sitting in is an **instance** of that class. Your chair is a different instance of the chair class. If the class chair has a method that they can be cleaned, that both our chairs will "get" that method. This process of creating a specific **object** (such as your chair or my chair) from the class (such as the generalized idea of a chair) is called **instantiating**.
 > 
 > But that's repetitive. When discussing the chairs, I had to state that it can be cleaned even though I already mentioned that when I discussed buses. So lets make a **parent class** of non-living things. We'll say that the class of buses and the class of chairs are both **children** of the class of non-living things. Now if I say that non-living things can be cleaned, all buses and chairs will inherit that.
 > 
