@@ -94,8 +94,11 @@ After trying random software for a while, I've settled on the free [Visual Studi
 
 <br> <br>
 
-### A word of caution
+## A word of caution
 While IDEs and text editors, CLIs, and Git are certainly helpful, they do have a little learning curve. If you're just getting started with programming, trying to learn to use all of them, **along with** trying to understand programming concepts and syntax, can be difficult and discouraging. Hence, I would advise you to first learn a language (using IDLE and Python, for example); or if you already know a language, learn to use an IDE before learning another language alongside. You might want to reserve CLIs and Git for later, when you'll need finer control and will have to handle more complex projects.
+
+## Read more
+I've written in greater technical depth about these (and other) tools on my personal blog. It has greater focus on actually learning to use said tools and providing you with resources to learn more, as opposed to the more general introduction here. Check it out at [https://eccentricorange.netlify.app/tools](https://eccentricorange.netlify.app/tools).
 
 <br> <br> <br>
 

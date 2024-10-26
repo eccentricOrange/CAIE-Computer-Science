@@ -2,7 +2,7 @@
 nav_order: 4
 ---
 
-## Pseudocode syntax highlighting plug-in
+# Pseudocode syntax highlighting plug-in
 {: .no_toc }
 
 While working with pseudocode, I was disappointed by the lack of an editor (that uses CAIE syntax). So I built my own plugin for the popular editor [Notepad++](https://notepad-plus-plus.org/).
@@ -11,13 +11,14 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 
 ![Preview in Notepad++](https://github.com/eccentricOrange/NPP-CAIE-Pseudocode-Highlighting-plugin/blob/master/assets/preview.png?raw=true)
 
+## Installation
+{: .no_toc }
+
 ## Table of Contents
 {: .no_toc }
 
 1. TOC
 {:toc}
-
-## Installation
 
 ### Download and install Notepad++
 1. Download Notepad++ from its official website.

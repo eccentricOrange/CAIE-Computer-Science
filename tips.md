@@ -19,8 +19,7 @@ I often find myself wanting to discuss little tips, tricks, and other ideas, but
 1. TOC
 {:toc}
 
-## 001-09-10-2021
-### Foo, Bar, and Baz
+## 001-09-10-2021 Foo, Bar, and Baz
 If you decide to look for help online, especially on a forum full of professional programmers (such as Stack Overflow), you might find these three words — among others — thrown around a lot.
 
 They are [metasyntactic variables](https://en.wikipedia.org/wiki/Metasyntactic_variable), arbitrary variables used as placeholders. There is no specific meaning behind them, much like how $x$, $y$, $t$ etc are used to define other expressions in mathematics.
@@ -30,16 +29,14 @@ Further reading:
 * [Meaning of foo, bar, baz, etc \(Stack Overflow\)](https://stackoverflow.com/questions/34212049/meaning-of-foo-bar-baz-etc)
 
 
-## 002-17-10-2021
-### Dealing with theoretical papers
+## 002-17-10-2021 Dealing with theoretical papers
 Well, the only advice I have is kinda generic, but it helped a me lot. This was my Achilles' heel too.
 
 1. Try to convert the material from a list of points to something hands-on. For an example with printers, I took apart an old inkjet printer and spent about a week trying to put it back together. So upon reading the books, it felt "obvious". For other types, my (amazing) teacher dug up YT videos by HP, Epson, and Xerox. They explained the working in such depth that the textbook again felt "obvious".
 
 2. For the remainder, like lists of advantages and disadvantages, I just used traditional study methods where I couldn't answer by reasoning. Read, practice, and do lots of papers. Sorry, I don't have any better ideas.
 
-## 003-17-10-2021
-### What do do when a bit of code is confusing?
+## 003-17-10-2021 What do do when a bit of code is confusing?
 You'll often run into a situation where a bit of code is confusing. For example, look at this bit of Python code.
 
 ```python
@@ -70,8 +67,7 @@ STORE the value from memory into the location x
 
 This makes it obvious that `x = x + 1` is an assignment statement, you immediately understand that it should not be seen as a mathematical expression, and know that the program would print `6`.
 
-## 004-17-10-2021
-### Trace tables
+## 004-17-10-2021 Trace tables
 
 I'll take paper `0478/22/M/J/20` as an example, and we can look at question **4**.
 
@@ -100,8 +96,7 @@ So what's the broad method here? Try to figure out what the algorithm is trying 
 
 ...it might be bit confusing. But if I just told you to make tea, you'd get what I'm trying to say.
 
-## 005-19-10-2021
-### Logic gate diagrams
+## 005-19-10-2021 Logic gate diagrams
 
 I'll take question **5 (a)**, of the paper with paper code `0478/13/M/J/16`, as an example for explaining how to translate a logic statement into a logic diagram. You may find it helpful to try and draw your own circuit along my explanation (or look at the solution from the marking scheme if you're really stuck).
 
@@ -145,8 +140,7 @@ So we can use *D* as it is provided. We must create a `NOT` *T* and a `NOT` *S*.
 
 Now it just comes down to arranging everything and actually drawing it. I cannot really explain this, although I guess you now have enough information to reverse-engineer the mark-scheme. Practice plays a big role here, so if you want, use a textbook (or the internet) to get a hang of this with simpler circuits involving only 2-3 gates at a time. You can also watch people doing this on YouTube, and I think examples are the best way forward for this topic.
 
-## 006-28-10-2021
-### Procedures: parameters by reference or by value?
+## 006-28-10-2021 Procedures: parameters by reference or by value?
 
 Look at this question.
 
@@ -234,8 +228,7 @@ In the second case, the computer would pass a **reference** to the procedure. Th
 Obviously it is a little bit more complicated if you actually break it down into assembly code, but I think this is good enough for you wrap your head around for now. If you're in the mood for getting confused but probably learning more, look up these terms: heap, call stack, pointers.
 
 
-## 007-15-11-2021
-### Common mistakes in Python
+## 007-15-11-2021 Common mistakes in Python
 
 James Murphy over at the YouTube channel [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/) just did an excellent video about common mistakes people make when learning Python. I highly recommend you watch it.
 
@@ -244,16 +237,14 @@ James Murphy over at the YouTube channel [mCoding](https://www.youtube.com/c/mCo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUeud6DvOWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 008-19-03-2022
-### YouTube series about networking
+## 008-19-03-2022 YouTube series about networking
 
 If you're beginning to learn about networking and internet, I would highly recommend [Internet 101](https://youtube.com/playlist?list=PLSQl0a2vh4HD8wtmKZh0nKOsOvP1KYaNO) by Khan Academy. It covers a lot of the basics and should give you a good intuitive understanding for grasping your textbooks.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSQl0a2vh4HD8wtmKZh0nKOsOvP1KYaNO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 009-10-06-2022
-### Understanding Object-oriented Programming
+## 009-10-06-2022 Understanding Object-oriented Programming
 I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/CodingHelp/comments/ri7fte/oop_python/howj7xn/?context=3).
 
 > I'm going to give you a number of analogies here. Don't dwell too much on any given example, we'll link it to coding later.
@@ -359,8 +350,7 @@ I gave the following explanation in a [Reddit comment](https://www.reddit.com/r/
 > 
 > Don't stress on stuff like the word `self` for now, it's a rather nuanced concept.
 
-## 010-05-11-2022
-### Check out Harvard University's CS50!
+## 010-05-11-2022 Check out Harvard University's CS50!
 
 For the uninitiated, [CS50 Introduction to Computer Science](http://cs50.harvard.edu/) is probably Harvard University's most popular class. It provides a good foundation for learning about computer science and programming, with a lecturer that makes the topics fairly approachable.
 
