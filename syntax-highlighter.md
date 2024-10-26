@@ -14,9 +14,6 @@ Notepad++ is a text editor and source code editor for use with Microsoft Windows
 ## Installation
 {: .no_toc }
 
-## Table of Contents
-{: .no_toc }
-
 1. TOC
 {:toc}
 
