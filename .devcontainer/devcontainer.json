@@ -15,7 +15,7 @@
 	// "forwardPorts": [],
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "bundle install jekykll github-pages just-the-docs"
+	"postCreateCommand": "bundle install"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
