@@ -3,10 +3,19 @@ nav_order: 6
 ---
 
 # Tools of the programming trade
+{: .no_toc }
 
 Often, computer science courses teach you the theory of computing, programming, and all sorts of advanced topics. However, I've noticed a lack of resources that tell you how to actually tackle an IDE, how to keep track of your code, where to seek help et cetera.
 
 If you're learning programming or computer science, these are some things you should consider using or exploring. If you want to learn these tools in detail, I would also recommend exploring the [Missing Semester](https://missing.csail.mit.edu/) from [MIT CSAIL](https://www.csail.mit.edu/).
+
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 
 <br>
 
