@@ -2,15 +2,22 @@
 nav_order: 7
 ---
 
-# Tips and tricks
-
 <script async>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},svg: {fontCache: 'global'},jax: ["input/TeX", "output/CommonHTML"]};(function () {var script = document.createElement('script');script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js';script.async = true;document.head.appendChild(script);})();
 </script>
 
+# Tips and tricks
+{: .no_toc }
+
 I often find myself wanting to discuss little tips, tricks, and other ideas, but they don't merit a full article. So I'll keep posting them here. Each tip has a number and the date when I first wrote it in the format `XXX-DD-MM-YYYY` (where `XXX` is the number), so that it can easily be found later.
 
 **Note:** There is no defined release schedule for these tips.
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## 001-09-10-2021
 ### Foo, Bar, and Baz

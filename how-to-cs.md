@@ -3,6 +3,13 @@ nav_exclude: true
 ---
 
 # Dealing with computer science
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Breaking down conventions
 Most <abbr title="Computer Science">CS</abbr> syllabuses at high school have two major components.
