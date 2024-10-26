@@ -2,10 +2,6 @@
 nav_order: 7
 ---
 
-<script async>
-window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},svg: {fontCache: 'global'},jax: ["input/TeX", "output/CommonHTML"]};(function () {var script = document.createElement('script');script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js';script.async = true;document.head.appendChild(script);})();
-</script>
-
 # Tips and tricks
 {: .no_toc }
 
@@ -18,6 +14,10 @@ I often find myself wanting to discuss little tips, tricks, and other ideas, but
 
 1. TOC
 {:toc}
+
+<script async>
+window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},svg: {fontCache: 'global'},jax: ["input/TeX", "output/CommonHTML"]};(function () {var script = document.createElement('script');script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js';script.async = true;document.head.appendChild(script);})();
+</script>
 
 ## 001-09-10-2021 Foo, Bar, and Baz
 If you decide to look for help online, especially on a forum full of professional programmers (such as Stack Overflow), you might find these three words — among others — thrown around a lot.
